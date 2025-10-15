@@ -24,9 +24,9 @@ author:
   # Biographic information
   avatar           : "personal.jpg"
   name             : "Zhao Weiren"
-  pronouns         : "he" # example: "she/her"  
+  pronouns         : # example: "she/her"  
   bio              : "I am a Ph.D student at Kyoto University. My research primarily focuses on integrating machine learning models with metabolic models. My areas of interest include machine learning, deep learning, bioinformatics, and cheminformatics."
-  location         : "Japan"
+  location         : "Japan|China"
   employer         : "Kyoto University"
   uri              : # URL
   email            : "chinazwr@outlook.com" 
@@ -39,7 +39,7 @@ author:
   impactstory      : # URL
   orcid            : "https://orcid.org/0009-0002-2918-4045"
   semantic         : # URL
-  pubmed           : ""
+  pubmed           : # URL
   researchgate     : # URL
   scopus           : # URL
 
@@ -47,13 +47,13 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "https://github.com/ZWR0"
+  github           : "ZWR0"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
   artstation       : # Username
-  bluesky          : "" # Replace this with you Bluesky username
+  bluesky          : # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
