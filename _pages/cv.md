@@ -9,56 +9,26 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+## Education
+* **Ph.D. in Informatics**, Kyoto University, Japan (2025 - Present)
+  * Focus: Machine Learning & Metabolic Modeling
+* **M.Eng. in Chemical Engineering**, Dalian University of Technology, China (2022 - 2025)
+  * GPA: 3.29/4.0
+* **B.S. in Applied Chemistry**, Qingdao University of Science & Technology, China (2018 - 2022)
+  * GPA: 3.10/4.0
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+## Research Experience
+**Integration of Machine Learning and Metabolic Models** *Kyoto University (Lab: Tatsuya Akutsu)* | *2025 - Present*
+* **InterKcat Model Development:** Optimized advanced neural network architectures using PyTorch to achieve high-precision predictions of enzyme catalytic activity.
+* **High-Performance Computing:** Trained protein language models using CUDA-based GPU parallel acceleration to efficiently handle large-scale biochemical training datasets.
+* **Interdisciplinary Decoding:** Applied linear algebra and statistical tools to parse complex biological data and construct robust predictive systems.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+**ML-Based Catalyst Design & Reaction Prediction** *Dalian University of Technology (Supervisor: Yang Li)* | *2022 - 2025*
+* **Computational Chemistry:** Investigated transition metal catalytic mechanisms and characterized novel aromatic systems using quantum chemistry approaches.
+* **Solvent Screening System:** Developed a clustering algorithm based on physicochemical descriptors for precise solvent candidate identification.
+* **Automated Data Mining:** Wrote Python scripts to automatically crawl and analyze thousands of academic papers in the field of perovskite solar cells.
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+## Languages
+* Chinese (Native)
+* English (Professional)
+* Japanese (Professional)
