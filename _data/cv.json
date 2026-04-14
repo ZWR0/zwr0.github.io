@@ -1,152 +1,115 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
-    "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "name": "Weiren Zhao",
+    "label": "Ph.D. Student in Informatics",
+    "image": "images/personal.jpg",
+    "email": "chinazwr@outlook.com",
+    "phone": "(+81) 070-8900-8031",
+    "url": "https://zwr0.github.io",
+    "summary": "Ph.D. student specializing in the intersection of machine learning, chemistry, and biological data. I possess a solid background in deep learning development and excel at leveraging PyTorch, GNNs, and custom attention models to solve complex modeling problems in biochemical systems.",
     "location": {
-      "address": "",
-      "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
-      "region": ""
+      "city": "Uji",
+      "region": "Kyoto",
+      "countryCode": "JP"
     },
     "profiles": [
       {
         "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "url": "https://scholar.google.com/citations?user=6XWdvPEAAAAJ"
       },
       {
         "network": "ORCID",
-        "username": "",
-        "url": "http://orcid.org/yourorcidurl"
+        "url": "https://orcid.org/0009-0002-2918-4045"
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "ZWR0",
+        "url": "https://github.com/ZWR0"
       }
     ]
   },
-  "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
-      "gpa": null,
-      "courses": []
+      "institution": "Kyoto University",
+      "area": "Informatics",
+      "studyType": "Ph.D. Student",
+      "startDate": "2025",
+      "endDate": "Present",
+      "description": "Focus: Machine Learning & Metabolic Modeling. Laboratory of Prof. Tatsuya Akutsu."
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
+      "institution": "Dalian University of Technology",
+      "area": "Chemical Engineering",
+      "studyType": "M.Eng.",
+      "startDate": "2022",
+      "endDate": "2025",
+      "gpa": "3.29/4.0",
+      "description": "State Key Laboratory of Fine Chemicals."
     },
     {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
-      "courses": []
+      "institution": "Qingdao University of Science & Technology",
+      "area": "Applied Chemistry",
+      "studyType": "B.S.",
+      "startDate": "2018",
+      "endDate": "2022",
+      "gpa": "3.10/4.0"
     }
   ],
-  "skills": [],
-  "languages": [],
-  "interests": [],
-  "references": [],
+  "work": [
+    {
+      "name": "Kyoto University",
+      "position": "Ph.D. Researcher",
+      "startDate": "2025",
+      "endDate": "Present",
+      "summary": "Interkcat Model Development and High-Performance Computing.",
+      "highlights": [
+        "Leveraged PyTorch to optimize advanced neural network architectures, achieving high-precision prediction of enzyme catalytic activity.",
+        "Accelerated the training of Protein Language Models via CUDA-based GPU parallel computing."
+      ]
+    },
+    {
+      "name": "Dalian University of Technology",
+      "position": "Research Assistant",
+      "startDate": "2022",
+      "endDate": "2025",
+      "summary": "Machine Learning-based Catalyst Design and Reaction Prediction.",
+      "highlights": [
+        "Developed a clustering algorithm based on physicochemical descriptors to precisely identify solvent candidates.",
+        "Developed Python scripts to automatically crawl and analyze academic papers in the field of perovskite solar cells."
+      ]
+    }
+  ],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "http://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "name": "Beyond Rapid Nucleation: Unveiling the Role of Solvent-Precursor Interactions in Antisolvent-Free Perovskite Fabrication",
+      "publisher": "Energy Environ. Sci.",
+      "releaseDate": "2026",
+      "url": "https://doi.org/10.1039/D6EE00170J"
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "http://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "name": "Designing Buchwald–Hartwig Reaction Graph for Yield Prediction",
+      "publisher": "The Journal of Organic Chemistry",
+      "releaseDate": "2025",
+      "url": "https://doi.org/10.1021/acs.joc.5c01234"
     }
   ],
-  "presentations": [
+  "skills": [
     {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
+      "name": "AI for Science",
+      "keywords": ["Machine Learning", "Deep Learning", "GNN", "Attention Models"]
     },
     {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
+      "name": "Domain Expertise",
+      "keywords": ["Cheminformatics", "Bioinformatics", "Metabolic Modeling"]
     },
     {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
+      "name": "Technical Stack",
+      "keywords": ["Python", "PyTorch", "Linux", "CUDA", "RDKit"]
     }
   ],
-  "teaching": [
-    {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
-    },
-    {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
-    }
-  ],
-  "portfolio": [
-    {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-    }
+  "languages": [
+    { "language": "Chinese", "fluency": "Native" },
+    { "language": "English", "fluency": "Professional" },
+    { "language": "Japanese", "fluency": "intermediate" }
   ]
 }

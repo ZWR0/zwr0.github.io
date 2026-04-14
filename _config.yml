@@ -7,9 +7,9 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "JP" # 推荐使用标准的语言代码（如 en-US），避免使用 "China|Japan" 导致某些插件解析错误
+locale                   : "JP"
 site_theme               : "air" # Currently available options are "default", "air"
-title                    : "Weiren Zhao - Academic Website"
+title                    : "Weiren Zhao"
 title_separator          : "-"
 name                     : &name "Weiren Zhao"
 description              : &description "Ph.D. student in Informatics at Kyoto University. My research focuses on integrating machine learning models with metabolic models, deep learning, bioinformatics, and cheminformatics." 
@@ -24,7 +24,7 @@ author:
   # Biographic information
   avatar           : "personal.jpg"
   name             : "Weiren Zhao"
-  pronouns         : # 可选填写，例如: "he/him"  
+  pronouns         : # "he/him"  
   bio              : "Ph.D. student at Kyoto University. Dedicated to building bridges at the intersection of machine learning, chemistry, and biological data."
   location         : "Uji, Kyoto, Japan"
   employer         : "Kyoto University"
