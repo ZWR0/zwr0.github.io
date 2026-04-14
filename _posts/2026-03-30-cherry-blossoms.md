@@ -1,7 +1,7 @@
 ---
 title: 'Spring in Kyoto: Capturing the Cherry Blossoms'
-date: 2025-03-30
-permalink: /posts/2025/03/cherry-blossoms/
+date: 2026-03-30
+permalink: /posts/2026/03/cherry-blossoms/
 tags:
   - Kyoto
   - Daily Life

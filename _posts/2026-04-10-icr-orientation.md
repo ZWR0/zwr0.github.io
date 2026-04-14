@@ -1,7 +1,7 @@
 ---
 title: 'Attending the ICR Orientation at Kyoto University'
-date: 2025-04-10
-permalink: /posts/2025/04/icr-orientation/
+date: 2026-04-10
+permalink: /posts/2026/04/icr-orientation/
 tags:
   - Kyoto University
   - Research
