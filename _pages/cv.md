@@ -31,4 +31,4 @@ redirect_from:
 ## Languages
 * Chinese (Native)
 * English (Professional)
-* Japanese (Professional)
+* Japanese (Intermediate)
