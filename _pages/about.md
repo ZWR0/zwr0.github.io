@@ -17,5 +17,5 @@ I am dedicated to building bridges at the intersection of machine learning, chem
 * **Domain Knowledge:** Protein Language Models, Statistical Data Analysis, Metabolic Modeling
 
 ## News
+* **[2026.04.08]** Published a research article in Energy & Environmental Science.
 * **[2025.10.01]** Started my Ph.D. journey at Kyoto University!
-* **[2025.04.08]** Published a research article in Energy & Environmental Science.
