@@ -1,6 +1,7 @@
 ---
 title: "Optimizing Model Learning Performance on a Challenging Heck Reaction Yield Data Set"
 collection: publications
+category: manuscripts
 permalink: /publication/2025-09-03-optimizing-model-learning-heck-reaction
 date: 2025-09-03
 venue: 'The Journal of Organic Chemistry'

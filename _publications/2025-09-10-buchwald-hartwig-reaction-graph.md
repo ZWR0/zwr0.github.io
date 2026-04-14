@@ -1,6 +1,7 @@
 ---
 title: "Designing Buchwald–Hartwig Reaction Graph for Yield Prediction"
 collection: publications
+category: manuscripts
 permalink: /publication/2025-09-10-buchwald-hartwig-reaction-graph
 date: 2025-09-10
 venue: 'The Journal of Organic Chemistry'

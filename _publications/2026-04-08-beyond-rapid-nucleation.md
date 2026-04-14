@@ -1,6 +1,7 @@
 ---
 title: "Beyond Rapid Nucleation: Unveiling the Role of Solvent-Precursor Interactions in Antisolvent-Free Perovskite Fabrication"
 collection: publications
+category: manuscripts
 permalink: /publication/2026-04-08-beyond-rapid-nucleation
 excerpt: "Investigation of solvent-precursor interactions in perovskite fabrication."
 date: 2026-04-08

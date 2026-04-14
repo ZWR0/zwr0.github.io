@@ -1,6 +1,7 @@
 ---
 title: "Predicting the Yield of Pd-Catalyzed Buchwald–Hartwig Amination Using Machine Learning with Extended Molecular Fingerprints and Selected Physical Parameters"
 collection: publications
+category: manuscripts
 permalink: /publication/2024-09-04-predicting-yield-buchwald-hartwig
 date: 2024-09-04
 venue: 'ChemistrySelect'
