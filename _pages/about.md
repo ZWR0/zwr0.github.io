@@ -131,7 +131,7 @@ redirect_from:
     <h1>W. Z.</h1>
     <p>Ph.D. Candidate in Informatics</p>
     <div class="supervisor-link">
-      Kyoto University | Advisor: Prof. Tatsuya Akutsu
+      Kyoto University | Supervisor: Prof. Takeyuki Tamura
     </div>
   </div>
 </div>
