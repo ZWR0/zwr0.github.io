@@ -141,7 +141,7 @@ redirect_from:
 I am a Ph.D. student at the **Graduate School of Informatics, Kyoto University**. My research stands at the convergence of **Machine Learning, Cheminformatics, and Bioinformatics**.
 
 I am committed to developing advanced deep learning frameworks to decode complex biochemical systems. My current research focus includes:
-* **Interkcat Framework**: Developing Attention-based deep learning models for high-precision prediction of enzyme kinetic constants ($k_{cat}$).
+* **Interkcat Framework**: Developing Attention-based deep learning models for high-precision prediction of enzyme kinetic constants (k<sub>cat</sub>).
 * **Protein Engineering**: Utilizing Attention Site Mapping to identify lethal mutation sites and "hit zones" in enzymes.
 * **AI for Science**: Implementing ML frameworks for solvent identification and precursor coordination in **Perovskite Solar Cells** to optimize film fabrication.
 
