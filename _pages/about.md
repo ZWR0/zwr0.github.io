@@ -129,7 +129,7 @@ redirect_from:
   <img src="/images/KyotoU Logo.png" alt="Kyoto University Logo" class="uni-logo">
   <div class="profile-info">
     <h1>W. Z.</h1>
-    <p>Ph.D. Candidate in Informatics</p>
+    <p>Ph.D. Student in Informatics</p>
     <div class="supervisor-link">
       Kyoto University | Supervisor: Prof. Takeyuki Tamura
     </div>
