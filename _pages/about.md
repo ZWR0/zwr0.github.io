@@ -177,4 +177,4 @@ I am committed to developing advanced deep learning frameworks to decode complex
 ## 🎓 Education
 * **Ph.D. in Informatics** | Kyoto University, Japan | Oct 2025 – Present
 * **M.Eng. Chemical Engineering** | Dalian Univ. of Technology, China | Sep 2022 – Jun 2025
-* **B.S. Applied Chemistry** | Qingdao Univ. of Sci. & Tech., China | Sep 2018 – Jun 2025
+* **B.S. Applied Chemistry** | Qingdao Univ. of Sci. & Tech., China | Sep 2018 – Jun 2022
