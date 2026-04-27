@@ -29,13 +29,24 @@ Stepping inside, the first thing you notice is how bright and incredibly spaciou
 
 ### Uncompromising Privacy for Deep Focus
 
-For researchers working in deep learning and bioinformatics, "deep focus" is crucial. The lab excels at providing highly independent workspaces that prioritize personal privacy. 
+For researchers working in deep learning and bioinformatics, "deep focus" is crucial. The lab excels at providing highly independent workspaces that prioritize personal privacy while maintaining a comfortable level of spaciousness. 
 
-Each member is assigned their own dedicated cubicle, separated by high partition walls. Equipped with high-quality ergonomic gaming chairs and dual-monitor setups, it serves as the perfect, isolated "cockpit." When you need to dive deep into PyTorch models or review metabolic pathways without distractions, this setup allows for maximum concentration.
+Each member is assigned their own dedicated cubicle, separated by high partition walls. Equipped with high-quality ergonomic gaming chairs, ample desk space, and dual-monitor setups, it serves as the perfect, isolated "cockpit." When you need to dive deep into PyTorch models or review metabolic pathways without distractions, this setup allows for maximum concentration.
 
 <div style="text-align: center; margin: 30px 0;">
   <img src="/images/Lab%203.jpg" alt="Independent Workspace" style="max-width: 80%; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
-  <p style="color: #586069; font-size: 0.9em; margin-top: 10px;"><i>My personal workstation: an ideal setup for writing code and training AI models.</i></p>
+  <p style="color: #586069; font-size: 0.9em; margin-top: 10px;"><i>A private and spacious personal workstation: an ideal setup for writing code and training AI models.</i></p>
+</div>
+
+### Collaborative Spaces for Brainstorming and Study
+
+While independent work is vital, groundbreaking research also thrives on collaboration and continuous learning. To support this, our laboratory features a dedicated public area designed specifically for group discussions, literature review, and relaxed personal study.
+
+This communal space is equipped with large whiteboards—perfect for sketching out mathematical formulas, brainstorming algorithm architectures, or discussing project roadmaps with peers. Additionally, the extensive bookshelves provide a wealth of reference materials, while the comfortable seating area offers a great spot to catch up on the latest academic papers or simply take a breather away from the screens.
+
+<div style="text-align: center; margin: 30px 0;">
+  <img src="/images/Lab%204.jpg" alt="Public Discussion and Study Area" style="max-width: 80%; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
+  <p style="color: #586069; font-size: 0.9em; margin-top: 10px;"><i>The lab's public area, equipped with whiteboards and a comprehensive library for discussions and reading.</i></p>
 </div>
 
 ### Flexible Hours & Remote Work Friendly
